@@ -6,5 +6,7 @@ __pycache__/
 .coverage
 .coverage.*
 .coverage.*
-mlsample_data/
+ml/sample_data/
 ml/__pycache__/
+ml/model.joblib
+ml/vectorizer.joblib
